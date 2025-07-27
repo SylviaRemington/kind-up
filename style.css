@@ -1,3 +1,7 @@
 h1 {
- color: purple;   
+    /* text color changed to purple */
+    color: purple;
+
+    /* text centered on webpage */
+    text-align: center;
 }
