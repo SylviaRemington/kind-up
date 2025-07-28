@@ -5,3 +5,9 @@ h1 {
     /* text centered on webpage */
     text-align: center;
 }
+
+#nepal-video {
+    /* text-align: center; */
+    display: block;
+    margin: 0 auto;
+}
