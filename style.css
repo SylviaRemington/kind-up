@@ -21,7 +21,7 @@ h1 {
     /* inline block allows inline elements to have their height & width set in CSS */
     /* Some inline elements (for example, the <img>) are replaced inline elements and can be given width and height without changing them into inline-block elements. */
     /* The object-fit property has no effect on <iframe>, <embed>, and <fencedframe> elements. */
-    display: inline block;
+    /* display: inline block; (Don't need inline-block for iframe I believ.)*/
     height: 450px;
     width: 450px;
     border: black;
