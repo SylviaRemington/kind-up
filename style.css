@@ -6,8 +6,18 @@ h1 {
     text-align: center;
 }
 
+#nepal {
+    /* main div of entire nepal section */
+    text-align: center;
+}
+
+#nepal-title {
+    /* nepal styling title */
+    font-size: 20px;
+}
+
 #nepal-video {
-    /* text-align: center; */
-    display: block;
-    margin: 0 auto;
+    /* nepal styling video */
+    height: 450px;
+    width: 450px;
 }
