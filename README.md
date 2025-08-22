@@ -1,3 +1,4 @@
+# Kind Up
 Creating random acts of kindness app & upleveling the world! -- kind-up encourages users to spread positivity through random acts of kindness.
 
 <!-- <hr> -->
