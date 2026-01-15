@@ -4,3 +4,13 @@ Creating random acts of kindness app & upleveling the world! -- kind-up encourag
 <!-- <hr> -->
 
 (Creating an app from beginning with HTML, CSS, & JavaScript, and then moving to Node, Express, MongoDB, & later React as a type of capstone project - to further my knowledge over time as I progress through GA & Udemy)
+
+
+**the kind-up capstone project:
+Resuming work on this starting January 15th, 2026!**
+
+
+
+
+
+
